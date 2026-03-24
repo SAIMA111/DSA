@@ -8,7 +8,7 @@ public class largestinArray {
             }
         }
 
-        return max; // ✅ this should be outside the loop and method block ends properly
+        return max; 
     }
 
     public static void main(String[] args) {
